@@ -1,2 +1,0 @@
-# Photography-website
-Portfolio project 
