@@ -1,2 +1,2 @@
 # CarolGottschalkPhotography
-Portfolio project 
+
