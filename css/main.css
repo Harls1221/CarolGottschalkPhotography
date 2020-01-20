@@ -37,76 +37,76 @@ body{
 }
 
 .headercontainer #imgban10{
-    background-image: url(images/photo10.jpg);
+    background-image: url("../images/photo10.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .headercontainer #imgban9{
-    background-image: url(images/photo9.jpg);
+    background-image: url("../images/photo9.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .headercontainer #imgban8{
-    background-image: url(images/photo8.jpg);
+    background-image: url("../images/photo8.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .headercontainer #imgban7{
-    background-image: url(images/photo7.jpg);
+    background-image: url("../images/photo7.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .headercontainer #imgban6{
-    background-image: url(images/photo6.jpg);
+    background-image: url("../images/photo6.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .headercontainer #imgban5{
-    background-image: url(images/photo5.jpg);
+    background-image: url("../images/photo5.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 .headercontainer #imgban4{
-    background-image: url(images/photo4.jpg);
+    background-image: url("../images/photo4.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .headercontainer #imgban3{
-    background-image: url(images/photo3.jpg);
+    background-image: url("../images/photo3.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .headercontainer #imgban2{
-    background-image: url(images/photo2.jpg);
+    background-image: url("../images/photo2.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .headercontainer #imgban1{
-    background-image: url(images/photo1.jpg);
+    background-image: url("../images/photo1.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .headercontainer #imgban0{
-    background-image: url(images/photo.jpg);
+    background-image: url("../images/photo.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
